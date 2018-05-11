@@ -87,7 +87,7 @@ sidebar:
              icon: linkedin
          mail:
              title: global.mail
-             url: mailto:anbu@tsttc.pw
+             url: mailto:email@anbuchelva.in
              icon: envelope-o
          keybase:
              title: Keybase
@@ -125,7 +125,7 @@ header:
 
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-  email: 'anbu@tsttc.pw'
+  email: 'email@anbuchelva.in'
   location: 'Chennai, India'
   # Your profile picture located in folder `source/_images/` (development)
   # or in `source/assets/images/` (production)
