@@ -18,6 +18,7 @@ coverSize: partial
 coverImage: pexels-photo-261763.jpeg
 comments: true
 actions: true
+disqusIdentifier: anbublog
 ---
 This has been very long time, since I stopped writing blogs. I started with blogger in 2008; was writing about my phases of life, learning, activities, people I missed/lost, poems, festival, tips, tricks, etc.,  
 <!---more--->
